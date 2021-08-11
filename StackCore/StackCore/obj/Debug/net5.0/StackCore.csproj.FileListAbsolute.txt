@@ -1,0 +1,12 @@
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\StackCore\StackCore\bin\Debug\net5.0\StackCore.deps.json
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\StackCore\StackCore\bin\Debug\net5.0\StackCore.dll
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\StackCore\StackCore\bin\Debug\net5.0\ref\StackCore.dll
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\StackCore\StackCore\bin\Debug\net5.0\StackCore.pdb
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\StackCore\StackCore\obj\Debug\net5.0\StackCore.csproj.AssemblyReference.cache
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\StackCore\StackCore\obj\Debug\net5.0\StackCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\StackCore\StackCore\obj\Debug\net5.0\StackCore.AssemblyInfoInputs.cache
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\StackCore\StackCore\obj\Debug\net5.0\StackCore.AssemblyInfo.cs
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\StackCore\StackCore\obj\Debug\net5.0\StackCore.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\StackCore\StackCore\obj\Debug\net5.0\StackCore.dll
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\StackCore\StackCore\obj\Debug\net5.0\ref\StackCore.dll
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\StackCore\StackCore\obj\Debug\net5.0\StackCore.pdb

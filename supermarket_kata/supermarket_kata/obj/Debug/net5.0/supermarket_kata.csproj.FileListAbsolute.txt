@@ -1,0 +1,12 @@
+C:\Users\Ashton\OneDrive - Nebula\course-work\tdd\supermarket_kata\supermarket_kata\bin\Debug\net5.0\supermarket_kata.deps.json
+C:\Users\Ashton\OneDrive - Nebula\course-work\tdd\supermarket_kata\supermarket_kata\bin\Debug\net5.0\supermarket_kata.dll
+C:\Users\Ashton\OneDrive - Nebula\course-work\tdd\supermarket_kata\supermarket_kata\bin\Debug\net5.0\ref\supermarket_kata.dll
+C:\Users\Ashton\OneDrive - Nebula\course-work\tdd\supermarket_kata\supermarket_kata\bin\Debug\net5.0\supermarket_kata.pdb
+C:\Users\Ashton\OneDrive - Nebula\course-work\tdd\supermarket_kata\supermarket_kata\obj\Debug\net5.0\supermarket_kata.csproj.AssemblyReference.cache
+C:\Users\Ashton\OneDrive - Nebula\course-work\tdd\supermarket_kata\supermarket_kata\obj\Debug\net5.0\supermarket_kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashton\OneDrive - Nebula\course-work\tdd\supermarket_kata\supermarket_kata\obj\Debug\net5.0\supermarket_kata.AssemblyInfoInputs.cache
+C:\Users\Ashton\OneDrive - Nebula\course-work\tdd\supermarket_kata\supermarket_kata\obj\Debug\net5.0\supermarket_kata.AssemblyInfo.cs
+C:\Users\Ashton\OneDrive - Nebula\course-work\tdd\supermarket_kata\supermarket_kata\obj\Debug\net5.0\supermarket_kata.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\OneDrive - Nebula\course-work\tdd\supermarket_kata\supermarket_kata\obj\Debug\net5.0\supermarket_kata.dll
+C:\Users\Ashton\OneDrive - Nebula\course-work\tdd\supermarket_kata\supermarket_kata\obj\Debug\net5.0\ref\supermarket_kata.dll
+C:\Users\Ashton\OneDrive - Nebula\course-work\tdd\supermarket_kata\supermarket_kata\obj\Debug\net5.0\supermarket_kata.pdb

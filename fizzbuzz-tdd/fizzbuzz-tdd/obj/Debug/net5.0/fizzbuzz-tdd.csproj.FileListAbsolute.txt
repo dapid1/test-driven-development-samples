@@ -1,0 +1,16 @@
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\obj\Debug\net5.0\fizzbuzz-tdd.csproj.AssemblyReference.cache
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\obj\Debug\net5.0\fizzbuzz-tdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\obj\Debug\net5.0\fizzbuzz-tdd.AssemblyInfoInputs.cache
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\obj\Debug\net5.0\fizzbuzz-tdd.AssemblyInfo.cs
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\obj\Debug\net5.0\fizzbuzz-tdd.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\bin\Debug\net5.0\fizzbuzz-tdd.exe
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\bin\Debug\net5.0\fizzbuzz-tdd.deps.json
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\bin\Debug\net5.0\fizzbuzz-tdd.runtimeconfig.json
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\bin\Debug\net5.0\fizzbuzz-tdd.runtimeconfig.dev.json
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\bin\Debug\net5.0\fizzbuzz-tdd.dll
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\bin\Debug\net5.0\ref\fizzbuzz-tdd.dll
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\bin\Debug\net5.0\fizzbuzz-tdd.pdb
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\obj\Debug\net5.0\fizzbuzz-tdd.dll
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\obj\Debug\net5.0\ref\fizzbuzz-tdd.dll
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\obj\Debug\net5.0\fizzbuzz-tdd.pdb
+C:\Users\Ashton\OneDrive - Nebula\course-work\testing\fizzbuzz-tdd\fizzbuzz-tdd\obj\Debug\net5.0\fizzbuzz-tdd.genruntimeconfig.cache

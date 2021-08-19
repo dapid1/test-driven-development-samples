@@ -1,0 +1,12 @@
+C:\Users\Promise\Documents\KarateChop\KarateChop\bin\Debug\net5.0\KarateChop.deps.json
+C:\Users\Promise\Documents\KarateChop\KarateChop\bin\Debug\net5.0\KarateChop.dll
+C:\Users\Promise\Documents\KarateChop\KarateChop\bin\Debug\net5.0\ref\KarateChop.dll
+C:\Users\Promise\Documents\KarateChop\KarateChop\bin\Debug\net5.0\KarateChop.pdb
+C:\Users\Promise\Documents\KarateChop\KarateChop\obj\Debug\net5.0\KarateChop.csproj.AssemblyReference.cache
+C:\Users\Promise\Documents\KarateChop\KarateChop\obj\Debug\net5.0\KarateChop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Promise\Documents\KarateChop\KarateChop\obj\Debug\net5.0\KarateChop.AssemblyInfoInputs.cache
+C:\Users\Promise\Documents\KarateChop\KarateChop\obj\Debug\net5.0\KarateChop.AssemblyInfo.cs
+C:\Users\Promise\Documents\KarateChop\KarateChop\obj\Debug\net5.0\KarateChop.csproj.CoreCompileInputs.cache
+C:\Users\Promise\Documents\KarateChop\KarateChop\obj\Debug\net5.0\KarateChop.dll
+C:\Users\Promise\Documents\KarateChop\KarateChop\obj\Debug\net5.0\ref\KarateChop.dll
+C:\Users\Promise\Documents\KarateChop\KarateChop\obj\Debug\net5.0\KarateChop.pdb
